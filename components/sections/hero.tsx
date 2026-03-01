@@ -12,7 +12,6 @@ export default function Hero() {
           </p>
 
           <h1 className="text-4xl md:text-6xl font-semibold tracking-tight leading-[1.05]">
-            Cirurgião Geral e <br />
             Mastologista em <br />
             Fortaleza
           </h1>

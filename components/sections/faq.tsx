@@ -11,8 +11,8 @@ const faqs = [
     a: "Cada procedimento tem seu próprio tempo de cicatrização. O Dr. Paulo fornece orientações detalhadas e acompanhamento personalizado. A maioria dos pacientes retorna às atividades normais em poucas semanas.",
   },
   {
-    q: "Realizam cirurgias de emergência?",
-    a: "Sim, atendemos casos de urgência em cirurgia geral. Contate a clínica para informações sobre disponibilidade. Estamos preparados para situações que exigem intervenção rápida.",
+    q: "Realizam cirurgias de emergência em mama?",
+    a: "Sim, atendemos casos de urgência relacionados à cirurgia de mama, como complicações pós-operatórias, abscessos mamários e outras situações que exigem intervenção rápida. Entre em contato com a clínica para verificar a disponibilidade e orientações imediatas. Estamos preparados para oferecer atendimento ágil e seguro quando necessário.",
   },
   {
     q: "Qual é o valor das consultas?",

@@ -19,7 +19,7 @@ export default function Footer() {
             </a>
 
             <p className="text-sm text-muted-foreground leading-relaxed max-w-sm">
-              Cirurgia geral e mastologia com atendimento humanizado e acompanhamento
+              Cirurgia de mama e mastologia com atendimento humanizado e acompanhamento
               completo do seu tratamento.
             </p>
 

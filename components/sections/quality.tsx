@@ -22,7 +22,7 @@ export default function Quality() {
           </h2>
 
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-            Experiência sólida em cirurgia geral e mastologia. Atendimento que
+            Experiência sólida em cirurgia de mama e mastologia. Atendimento que
             coloca você em primeiro lugar.
           </p>
         </div>

@@ -4,11 +4,11 @@ import { ArrowRight } from "lucide-react";
 
 const services = [
   {
-    title: "Cirurgia geral",
+    title: "Cirurgia de mama",
     description:
-      "Procedimentos cirúrgicos de abdômen, vias biliares e outras especialidades gerais.",
-    image: "/cirurgia-geral.jpg",
-    alt: "Cirurgia geral",
+      "Procedimentos cirúrgicos de mama, incluindo tratamento de lesões benignas e malignas, cirurgias conservadoras, mastectomias, reconstruções mamárias e demais intervenções da especialidade de mastologia.",
+    image: "/cirugia-de-mama.jpg",
+    alt: "Cirurgia de mama",
   },
   {
     title: "Mastologia",
@@ -44,7 +44,7 @@ export default function Services() {
           </h2>
 
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-            Cirurgia geral e mastologia com excelência técnica.
+            Cirurgia de mama e mastologia com excelência técnica.
             Acompanhamento completo do seu tratamento.
           </p>
         </div>
