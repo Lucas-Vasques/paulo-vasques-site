@@ -7,7 +7,7 @@ const services = [
     title: "Cirurgia de mama",
     description:
       "Procedimentos cirúrgicos de mama, incluindo tratamento de lesões benignas e malignas, cirurgias conservadoras, mastectomias, reconstruções mamárias e demais intervenções da especialidade de mastologia.",
-    image: "/cirugia-de-mama.jpg",
+    image: "\cirurgia-de-mama.jpg",
     alt: "Cirurgia de mama",
   },
   {
