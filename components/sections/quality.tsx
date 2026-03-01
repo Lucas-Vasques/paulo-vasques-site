@@ -59,7 +59,7 @@ export default function Quality() {
 </a>
 
           <a
-            href="#mais"
+            href="#duvidas"
             className="inline-flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
           >
             Saiba mais <ArrowRight className="h-4 w-4" />
