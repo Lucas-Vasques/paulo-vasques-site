@@ -86,7 +86,7 @@ export default function Services() {
         {/* CTA Row */}
         <div className="mt-16 flex flex-col sm:flex-row items-center justify-center gap-6">
                              <a
-      href="https://wa.me/5585999999999?text=Olá,%20gostaria%20de%20agendar%20consulta."
+      href="hhttps://api.whatsapp.com/send?1=pt_BR&phone=5585999833635"
       target="_blank"
       rel="noopener noreferrer"
     >

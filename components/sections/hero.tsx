@@ -24,7 +24,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row sm:items-center gap-4">
                      <a
-      href="https://wa.me/5585999999999?text=Olá,%20gostaria%20de%20agendar%20consulta."
+      href="https://api.whatsapp.com/send?1=pt_BR&phone=5585999833635"
       target="_blank"
       rel="noopener noreferrer"
     >
